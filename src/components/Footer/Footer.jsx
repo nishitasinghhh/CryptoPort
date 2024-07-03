@@ -1,5 +1,6 @@
 import React from 'react'
-import '/Users/nishitasingh/Desktop/cryptoport/src/components/Footer/Footer.css'
+
+
 const Footer = () => {
   return (
     <div className='footer'>

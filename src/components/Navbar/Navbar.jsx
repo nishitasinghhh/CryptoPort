@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import '/Users/nishitasingh/Desktop/cryptoport/src/components/Navbar/Navbar.css'
+
 
 import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'

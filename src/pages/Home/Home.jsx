@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react'
-import '/Users/nishitasingh/Desktop/cryptoport/src/pages/Home/Home.css'
+
 import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
 const Home = () => {
